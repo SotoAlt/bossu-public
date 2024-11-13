@@ -31,6 +31,3 @@ A self-styled tech mogul and office boss obsessed with accelerating the internet
 - [Node.js 22+](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 - [pnpm](https://pnpm.io/installation)
 
-### Quick Setup
-
-1. Clone and install dependencies:
