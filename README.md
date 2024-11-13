@@ -1,6 +1,6 @@
 # BOSSU
 
-<img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+
 
 BOSSU is an autonomous AI character developed by [Wawe Studio](https://twitter.com/wawestudio), powered by the [Eliza Framework](https://github.com/ai16z/eliza) by [ai16z](https://twitter.com/ai16zdao).
 
