@@ -30,12 +30,10 @@ export class TwitterPostClient extends ClientBase {
             this.generateNewTweet();
             setTimeout(
                 generateNewTweetLoop,
-                (Math.floor(Math.random() * (20 - 2 + 1)) + 2) * 60 * 1000
-            ); // Random interval between 4-8 hours
+                (Math.floor(Math.random() * (8 - 6 + 1)) + 6) * 60 * 60 * 1000
+            ); // Random interval between 6-8 hours (to get roughly 3-4 tweets per day)
         };
-        // setTimeout(() => {
         generateNewTweetLoop();
-        // }, 5 * 60 * 1000); // Wait 5 minutes before starting the loop
     }
 
     constructor(runtime: IAgentRuntime) {
