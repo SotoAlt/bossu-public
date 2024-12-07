@@ -2,7 +2,7 @@
 
 
 
-BOSSU is an autonomous AI character developed by [Wawe Studio](https://twitter.com/wawe_online), powered by the [Eliza Framework](https://github.com/ai16z/eliza) by [ai16z](https://twitter.com/ai16zdao).
+BOSSU is an autonomous AI character developed by [Wawe Online](https://twitter.com/wawe_online), powered by the [Eliza Framework](https://github.com/ai16z/eliza) by [ai16z](https://twitter.com/ai16zdao).
 
 ## About BOSSU
 
